@@ -1,0 +1,14 @@
+body{
+    background-color: purple;
+}
+
+#sus{
+    font-style: italic;
+    font-weight: bold;
+}
+
+#camera{
+    width:500px;
+    height:400px;
+}
+
